@@ -5,7 +5,7 @@ Description du projet
 ## [Mécanique](https://github.com/maxime-hanicotte/Mardi/tree/master/mécanique)
 
 ### Pièces 3D
-<img src="./img/freecad-logo.png" width="36" alt="freecad" align="right">
+<img src="./freecad-logo.png" width="36" alt="freecad" align="right">
 
 Ces pièces sont conçues pour être imprimées chez soi avec une imprimante 3D
 
@@ -19,7 +19,7 @@ Les modules utilisés pour ce projet
 * Pi cam 5M
 
 ## [Informatique](https://github.com/maxime-hanicotte/Mardi/tree/master/informatique)
-<img src="./img/raspberry-logo.png" width="36" alt="raspberry" align="right">
+<img src="./raspberry-logo.png" width="36" alt="raspberry" align="right">
 
 ### Bibliothèques
 
@@ -29,7 +29,7 @@ Bibliothèques utilisées
 
 Code source du projet
 
-<img src="./img/mx-logo.png" width="36" alt="MX" align="right">
+<img src="./mx-logo.png" width="36" alt="MX" align="right">
 
 
 
