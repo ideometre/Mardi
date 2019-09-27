@@ -19,7 +19,7 @@ Les modules utilisés pour ce projet
 * Pi cam 5M
 
 ## [Informatique](https://github.com/maxime-hanicotte/Mardi/tree/master/informatique)
-<img src="./raspberry-logo.png" width="36" alt="raspberry" align="right">
+<img src="./raspberry-logo.svg" width="36" alt="raspberry" align="right">
 
 ### Bibliothèques
 
