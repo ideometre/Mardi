@@ -1,6 +1,6 @@
-# Bienvenue sur la page du projet
+# [Mardi](https://maxime-hanicotte.github.io/Mardi/)
 
-Description du projet
+Assistant personnel
 
 ## Mécanique [<img src="./rep.png" alt="rep">](https://github.com/maxime-hanicotte/Mardi/tree/master/mécanique)
 
