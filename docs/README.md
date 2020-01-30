@@ -1,5 +1,3 @@
-# [Mardi](https://maxime-hanicotte.github.io/Mardi/)
-
 Assistant personnel
 
 ## Mécanique [<img src="./rep.png" alt="rep">](https://github.com/maxime-hanicotte/Mardi/tree/master/mécanique)
@@ -29,8 +27,7 @@ Bibliothèques utilisées
 
 Code source du projet
 
-<img src="./mx-logo.png" width="36" alt="MX" align="right">
 
-
+<a href="https://maxime.hanicotte.net"><img src="mx-logo.png" width="36" alt="MX" align="right"></a>
 
 --
